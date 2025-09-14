@@ -71,7 +71,7 @@ dependencies {
     implementation(project(":common"))
     
     // Variable in Kotlin definieren
-    val roomVersion = "2.5.2"
+    val roomVersion = "2.8.0"
 
     implementation("androidx.core:core-ktx:1.12.0")
     implementation("com.squareup.retrofit2:retrofit:2.9.0")
