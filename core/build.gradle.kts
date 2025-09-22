@@ -83,7 +83,7 @@ dependencies {
     ksp("androidx.room:room-compiler:$roomVersion")
 
     implementation("androidx.room:room-ktx:$roomVersion")
-    implementation("net.zetetic:android-database-sqlcipher:4.5.3")
+    implementation("net.zetetic:android-database-sqlcipher:4.5.4")
     implementation("io.insert-koin:koin-android:3.2.2")
     
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
