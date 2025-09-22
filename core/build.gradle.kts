@@ -86,7 +86,7 @@ dependencies {
     implementation("net.zetetic:android-database-sqlcipher:4.5.3")
     implementation("io.insert-koin:koin-android:3.2.2")
     
-    androidTestImplementation("androidx.test.ext:junit:1.1.5")
+    androidTestImplementation("androidx.test.ext:junit:1.3.0")
     
     //testImplementation("junit:junit:4.12")
     testImplementation("junit:junit:4.13.2")
