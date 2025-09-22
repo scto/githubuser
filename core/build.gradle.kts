@@ -90,7 +90,7 @@ dependencies {
     
     //testImplementation("junit:junit:4.12")
     testImplementation("junit:junit:4.13.2")
-    testImplementation("io.insert-koin:koin-test-junit4:3.3.2")
+    testImplementation("io.insert-koin:koin-test-junit4:4.1.1")
     testImplementation("org.mockito:mockito-core:5.2.0")
     testImplementation("org.mockito:mockito-inline:5.2.0")
 }
