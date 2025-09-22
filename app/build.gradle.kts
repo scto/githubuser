@@ -68,7 +68,7 @@ dependencies {
     implementation(project(":presentation"))
     
     // Funktionsaufrufe mit Klammern und doppelten Anführungszeichen
-    implementation("androidx.core:core-ktx:1.12.0")
+    implementation("androidx.core:core-ktx:1.17.0")
     implementation("androidx.appcompat:appcompat:1.7.1")
     implementation("io.insert-koin:koin-android:3.2.2")
     implementation("androidx.multidex:multidex:2.0.1")
